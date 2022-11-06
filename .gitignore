@@ -1,0 +1,4 @@
+__pycache__/
+venv
+plant_disease_model_1.pt
+plant_disease_model_1_latest.pt
